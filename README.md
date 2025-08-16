@@ -1,2 +1,2 @@
-# Predicting-Immune-Checkpoint-Blockade-Response-A-Multi-Omics-Based-Machine-Learning-Framework
-Repository for the publication: Predicting Immune Checkpoint Blockade Response: A Multi-Omics-Based Machine Learning Framework and Network Analysis of Key Genes
+# IMPACT
+Repository for the publication: Integrative Multiomics Pipeline for Analysis of Checkpoint Therapy
